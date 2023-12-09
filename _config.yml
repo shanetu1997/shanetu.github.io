@@ -12,7 +12,7 @@ email: xiaodan9377@gmail.com
 avatar: assets/images/head.jpg
 
 # You'll want to customize url and baseurl for your own site:
-url: "https://shanetu.github.io/" # the base hostname & protocol for your site
+url: "https://shanetu.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Social settings
