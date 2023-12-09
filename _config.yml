@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shane's Website
-subtitle: JD candidate at the University of Illinois <br> College of Law
+subtitle: CC 20', Illinois Law 25'
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Shane Tu
 author: Charlotte
